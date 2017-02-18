@@ -1,0 +1,28 @@
+header{
+  font-size: 40px;
+  font-family: fantasy;
+  font-weight: bolder;
+  width: 100%;
+}
+img{
+  padding: 20px;
+  border: 10px dashed white;
+}
+body{
+  background-color: #eaa281;
+  font-size: 20px;
+  font-family: Courier, "Lucida Console", monospace;
+  text-align: center;
+}
+p{
+  padding: 10px;
+}
+h4{
+  text-align: left;
+}
+ul{
+  text-align: left;
+}
+footer{
+  margin-top: 50px;
+}
